@@ -351,6 +351,20 @@
   ]
  },
  {
+  "address": "0:7d20ea8faeaa4bbb4ac2bb39d968e50c0f932cd47cbc8df4a3f4d8b47cf7793b",
+  "description": "The first Pepe token on the TON Chain.",
+  "image": "https://gateway.pinata.cloud/ipfs/bafkreieymg6ds6noorb5oq7z5im7auo5unguzumf7pjndrqs532g7csjya",
+  "name": "Ton PEPE",
+  "social": [
+   "https://t.me/TonPepePortal",
+   "https://x.com/TonPepeToken"
+  ],
+  "symbol": "TPEPE",
+  "websites": [
+   "https://tonpepe.com"
+  ]
+ },
+ {
   "address": "0:451aab804a8931111a2d60cb5d528397c98e41a22af95b260623b4b622d00250",
   "description": "100F is the utility token of Crypto Club 100F. Buyback-based economy, private analytics community, media growth and ecosystem expansion.\n",
   "image": "https://raw.githubusercontent.com/DmytroIOOF/100f-media/main/100F_256.png",
